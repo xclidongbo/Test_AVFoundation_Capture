@@ -1,0 +1,2 @@
+# Test_AVFoundation_Capture
+AVFoundation的拍照demo
